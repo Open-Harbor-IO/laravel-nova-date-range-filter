@@ -1,5 +1,5 @@
 # Warning!
-I'm not officially supporting this fork, I only used this as a temporary solution to update our laravel projects while looking for an alternative
+I'm not officially supporting this fork, I only use this as a temporary solution to update our laravel projects while looking for an alternative
 
 Oiginal abandonned [repo](https://github.com/pos-lifestyle/laravel-nova-date-range-filter)
 
